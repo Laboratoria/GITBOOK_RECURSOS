@@ -5,7 +5,7 @@ description: >-
   proporcionar recursos para ayudarte.
 ---
 
-# 💛 Bem-vinda
+# 💛 Bem-vinda..
 
 ## ¿Cómo es el proceso de postulación?
 
