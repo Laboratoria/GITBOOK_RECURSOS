@@ -1,19 +1,15 @@
-# 🪙 CoinConvert
+# 🍿 Cinemaster
 
-O problema do CoinConvert é que nos pede para converter uma quantidade de dólares nas moedas de três países diferentes: Peru (Soles), México (Pesos Mexicanos) e Chile (Pesos Chilenos). Para resolver esse problema, podemos seguir os seguintes passos:&#x20;
+En esta tarea de análisis estratégico para CineMaster, enfrentaremos la labor de procesar datos financieros y categorizar países según sus costos de contenido. El objetivo es proporcionar orientación estratégica basada en el costo de contenido por cada 1000 películas y series.
 
-1. Compreender a declaração do problema e definir o objetivo: o objetivo é converter uma quantidade de dólares para as moedas do Peru, México e Chile.&#x20;
-2. Identificar a taxa de conversão: na declaração do problema, são fornecidas as taxas de conversão para cada uma das moedas. Por exemplo, para converter dólares para soles peruanos, é mencionado que 1 dólar equivale a 3,25 soles.&#x20;
-3. Criar uma função que receba uma quantidade de dólares como parâmetro e retorne um array com as conversões para as três moedas. Podemos criar variáveis que armazenem as conversões para cada uma das moedas e, em seguida, retornar um array com essas variáveis.
-4. Verificar se a função está fornecendo os resultados corretos para alguns casos de teste.&#x20;
+Para abordar esta tarea de manera efectiva, seguiremos estos pasos:
 
-Para resolver esse problema em JavaScript, podemos criar uma função chamada coinConvert que receba como parâmetro uma quantidade de dólares e retorne um array com as conversões para soles peruanos, pesos mexicanos e pesos chilenos. Podemos usar as taxas de conversão fornecidas na declaração do problema para realizar as conversões.&#x20;
+1. El propósito es categorizar países en función de sus costos de contenido, lo cual ayudará a CineMaster a determinar su enfoque en el mercado.
+2. Utilizaremos el costo por cada 1000 películas como una métrica estandarizada para comparar costos de contenido entre países.
+3. Desarrollaremos una función que emplee fórmulas como VLOOKUP (BUSCARV) y IF (SI) para unir datos de precios y tamaños de catálogos, y así categorizar países como "bajo costo" o "alto costo" basados en el costo por cada 1000 películas.
+4. Es crucial probar la función con ejemplos de datos para asegurarnos de que esté proporcionando las categorías correctas.
 
-```
-1 dólar = 3,25 soles peruanos
-1 dólar = 18 pesos mexicanos
-1 dólar = 660 pesos chilenos
-```
+En el contexto de CineMaster, este análisis estratégico ayudará a definir las decisiones de entrada al mercado. La categorización de países según sus costos de contenido permitirá a CineMaster:
 
-
-
+* La clasificación en "bajo costo" podría guiar a CineMaster hacia estrategias específicas para aprovechar estos mercados.
+* Los mercados clasificados como "alto costo" podrían inspirar estrategias que involucren contenido exclusivo o colaboraciones locales.
