@@ -1,7 +1,10 @@
 # Table of contents
 
-* [💛 Bienvenida](README.md)
-* [🍿 Cinemaster](coinconvert/README.md)
-  * [Ejemplo](coinconvert/ejemplo.md)
-  * [Más recursos](coinconvert/lecturas-complementarias.md)
-* [🔨 Herramientas](otros-recursos.md)
+* [💛 Bem-vinda](README.md)
+* [🪙 CoinConvert](coinconvert/README.md)
+  * [Exemplo](coinconvert/exemplo.md)
+* [🍕 Conta de restaurante](conta-de-restaurante/README.md)
+  * [Exemplo](conta-de-restaurante/exemplo.md)
+* [📎 Portfólio](portfolio/README.md)
+  * [Exemplo](portfolio/exemplo.md)
+* [❗ Outros recursos](outros-recursos.md)
