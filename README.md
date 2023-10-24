@@ -1,22 +1,22 @@
 ---
 description: >-
-  ¡Hola! ¡Bienvenida al gitbook de recursos para candidatas de Laboratoria! En
-  este documento, vamos a explicar cómo funciona el proceso de inscripción y
-  proporcionar recursos para ayudarte.
+  Olá! Bem-vinda ao Gitbook de recursos para candidatas da Laboratória! Neste
+  documento, explicaremos como funciona o processo de inscrição e forneceremos
+  recursos para ajudá-la.
 ---
 
-# 💛 Bienvenida
+# 💛 Bem-vinda
 
-## ¿Cómo es el proceso de postulación?
+## Como é o processo de inscrição?
 
-El proceso de postulación para Laboratoria consta de varias etapas que permiten a las candidatas demostrar su capacidad y habilidades para programar, así como también conocer más sobre la organización y el bootcamp en sí.
+O processo de candidatura ao bootcamp da Laboratória consiste em várias etapas, que permitem às candidatas demonstrar a sua capacidade e competência em programação, bem como conhecer mais sobre a organização e o próprio bootcamp.
 
-1. **Registro en la página web:** El primer paso es registrarse en la página web de Laboratoria y llenar un formulario con información personal, académica y laboral.
-2. **Pre-trabajo:** Luego de registrarse, se debe completar una serie de desafíos en línea que evalúan las habilidades en lógica y resolución de problemas. Estos desafíos son en Excel (Google Sheets). Los desafíos no tienen un límite de tiempo y se pueden completar en cualquier momento antes de la fecha límite.
-3. **Entrevista en línea:** Platicaremos sobre las respuestas a las preguntas en el formulario de registro, así como también se evaluará la capacidad de comunicación y la motivación para participar en el bootcamp.
-4. **Pre-admisión:** Durante esta semana, las postulantes tienen la oportunidad de experimentar de primera mano cómo es el programa, interactuar con otras estudiantes y mentores, y aprender las habilidades básicas necesarias para tener éxito en el bootcamp.
-5. **Selección final:** Finalmente, las candidatas seleccionadas serán notificadas y se les ofrecerá un lugar en el programa de bootcamp de Laboratoria. El proceso de selección se basa en la capacidad técnica, la motivación y el compromiso con el programa.
+1. **Registro na página web:** O primeiro passo é se cadastrar no site da Laboratória e preencher um formulário com informações pessoais, acadêmicas e profissionais.
+2. **Pré-trabalho:** Após registrar-se, você deve completar uma série de desafios  online que avaliam suas habilidades em lógica e resolução de problemas. Estes desafios são em Excel (Google Sheets). Os desafios não têm limite de tempo e podem ser concluídos a qualquer momento antes do prazo.
+3. **Entrevista online:** Discutiremos as respostas às perguntas do formulário de inscrição, bem como avaliaremos as habilidades de comunicação e motivação para participar do bootcamp.
+4. **Pré-admissão:** Durante esta semana, as candidatas têm a oportunidade de vivenciar em primeira mão como é o programa, interagir com outras alunas e mentores, além de aprender as habilidades básicas necessárias para ter sucesso no bootcamp.
+5. **Seleção final:** Finalmente, as candidatas selecionadas serão informadas e será oferecida uma vaga no programa de bootcamp da Laboratória. O processo seletivo é baseado na capacidade técnica, motivação e comprometimento com o programa.
 
-Es importante tener en cuenta que no se necesitan conocimientos previos de programación para postular, pero se espera que las candidatas tengan una fuerte motivación y compromiso para aprender.
+É importante observar que a inscrição não requer nenhum conhecimento prévio de programação, mas espera-se que as candidatas tenham uma forte motivação e comprometimento com o aprendizado.
 
-#### Al final de cada etapa te notificaremos los resultados de tu postulación.
+#### Ao final de cada etapa te notificaremos sobre os resultados de sua candidatura.

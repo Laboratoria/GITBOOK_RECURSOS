@@ -1,7 +1,7 @@
 # Table of contents
 
-* [💛 Bienvenida](README.md)
+* [💛 Bem-vinda](README.md)
 * [🍿 Cinemaster](coinconvert/README.md)
-  * [Ejemplo](coinconvert/ejemplo.md)
-  * [Más recursos](coinconvert/lecturas-complementarias.md)
-* [🔨 Herramientas](otros-recursos.md)
+  * [Exemplo](coinconvert/ejemplo.md)
+  * [Mais recursos](coinconvert/lecturas-complementarias.md)
+* [🔨 Ferramentas](otros-recursos.md)

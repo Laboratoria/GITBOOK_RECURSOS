@@ -1,37 +1,37 @@
 ---
-description: 'Podemos entender más a detalle con este ejemplo:'
+description: 'Podemos entender mais detalhes com este exemplo:'
 ---
 
-# Ejemplo
+# Exemplo
 
-#### <mark style="background-color:orange;">Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.</mark>
+#### <mark style="background-color:orange;">Recorda que este não é um guia para resolver o desafio, mas sim um exemplo para comprendê  melhor.</mark>
 
-_Imagina que has sido encomendado con la tarea de desentrañar el misterio detrás de la popularidad de los restaurantes y contribuir a que **FoodFusion** tome decisiones sólidas para su crecimiento. Acompáñame a través de este proceso guiado, donde exploraremos paso a paso cómo organizar restaurantes en categorías de acuerdo a su popularidad, tomando en cuenta la puntuación de las reseñas y la variedad en sus menús._
+Imagine que você recebeu a tarefa de desvendar o mistério por trás da popularidade dos restaurantes e ajudá-los _**FoodFusion t**_ome decisões sólidas para o seu crescimento. Acompanhe-me neste processo guiado, onde exploraremos passo a passo como organizar restaurantes em categorias de acordo com sua popularidade, levando em consideração as pontuações das avaliações e a variedade em seus menus.
 
-* Nuestro propósito es segmentar los restaurantes en grupos basados en su nivel de popularidad, considerando tanto la puntuación de las reseñas como la diversidad en su oferta de menú.
-* Identificaremos un enfoque simple pero efectivo para categorizar los restaurantes. Combinaremos la puntuación promedio de las reseñas con la cantidad de platos en sus menús, creando así una métrica de valoración.
-* Nos sumergiremos en el mundo de las fórmulas, las cuales utilizaremos con precisión para clasificar los restaurantes. De manera similar a resolver un enigma, emplearemos fórmulas prácticas para determinar si un restaurante es "Muy Popular" o "Moderadamente Popular".
-* Al igual que detectives minuciosos, someteremos nuestras etiquetas a pruebas con ejemplos concretos. Esta etapa es crucial para garantizar la precisión y confiabilidad de nuestras categorías.
+* Nosso objetivo é segmentar restaurantes em grupos com base em seu nível de popularidade, considerando tanto as pontuações das avaliações quanto a diversidade em suas ofertas de cardápio.
+* Identificaremos uma abordagem simples, mas eficaz para categorizar restaurantes. Combinaremos a pontuação média da avaliação com o número de pratos em seus menus, criando uma métrica de classificação.
+* Iremos mergulhar no mundo das fórmulas, que utilizaremos justamente para classificar restaurantes. Semelhante à resolução de um quebra-cabeça, usaremos fórmulas práticas para determinar se um restaurante é “Muito Popular” ou “Moderadamente Popular”.
+* Como detetives cuidadosos, testaremos nossos rótulos com exemplos concretos. Esta etapa é crucial para garantir a precisão e confiabilidade de nossas categorias.
 
-#### Las fórmulas que utilizaremos son:
+#### As fórmulas que utilizaremos são:
 
-1.  **Promedio de Popularidad**: Utilizaremos esta fórmula en una celda para calcular el promedio ponderado de la puntuación de reseñas y la cantidad de platos en los menús:
-
-    ```excel-formula
-    (Puntuación Promedio + Cantidad de Platos) / 2
-    ```
-2.  **Etiquetando con Fórmula IF**: Supongamos que el resultado del promedio de puntuaciones se encuentra en la celda `B2`. En este caso, la fórmula `IF` podría ser la siguiente:
+1.  **Média de Popularidade**: Usaremos esta fórmula em uma célula para calcular a média ponderada da pontuação da avaliação e da quantidade de pratos nos menus:
 
     ```excel-formula
-    =SI(B2 > 7.5, "Muy Popular", "Moderadamente Popular")
+    (Média Pontuação + Quantidade de pratos) / 2
+    ```
+2.  **Classificação com Fórmula SI**: Suponha que o resultado da pontuação média esteja na célula B2. Neste caso, a fórmula SI poderia ser a seguinte:
+
+    ```excel-formula
+    =SI(B2 > 7.5, "Muito Popular", "Moderadamente Popular")
     ```
 
-    Esta fórmula etiquetará un restaurante como "Muy Popular" si el promedio de puntuaciones es mayor a 7.5; de lo contrario, lo etiquetará como "Moderadamente Popular".
-3.  **Buscando con VLOOKUP**: Imaginemos que el valor en la celda `B2` es 9, y tenemos una tabla de categorías en el rango `A10:B12`. La fórmula `VLOOKUP` sería:
+    Esta fórmula classificará o restaurante como "Muito Popular" se a média de puntuações é maior que 7.5; caso contrario, o classificará como "Moderadamente Popular".
+3.  **Buscando com VLOOKUP**: Imaginemos que o valor na célula `B2` é 9,  e temos uma tabela de categorias na faixa`A10:B12`. A fórmula `VLOOKUP` seria:
 
     <pre class="language-excel-formula"><code class="lang-excel-formula"><strong>=BUSCARV(B2, A10:B12, 2, 0)
     </strong></code></pre>
 
-    Esta fórmula buscará el valor en `B2` en la primera columna de la tabla `A10:B12` y devolverá el valor correspondiente de la segunda columna si encuentra una coincidencia. En este caso, estamos buscando la categoría de popularidad en la tabla.
+    Esta fórmula buscará o valor em `B2` na primeira coluna da tabela `A10:B12` e retornará o valor  da segunda coluna se encontrar uma correspondência. Neste caso, procuramos a categoria de popularidade na tabela.
 
-A través de pasos metódicos y fórmulas efectivas, estableceremos un sistema de etiquetado que clasificará los restaurantes de manera precisa y sólida.
+Através Através de passos metódicos e fórmulas eficazes, estabeleceremos um sistema que classificará os restaurantes de forma precisa e robusta.

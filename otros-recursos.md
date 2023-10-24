@@ -1,5 +1,5 @@
-# 🔨 Herramientas
+# 🔨 Ferramentas
 
-**Microsoft Excel:** Es una alternativa popular a Google Sheets. Ofrece muchas funciones similares para análisis de datos y permite trabajar con fórmulas complejas y tablas dinámicas. [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+**Microsoft Excel:** É uma alternativa popular ao Planilhas Google. Ele oferece muitas funções semelhantes para análise de dados e permite trabalhar com fórmulas complexas e tabelas dinâmicas. [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-**LibreOffice Calc:** Es una suite de oficina de código abierto que incluye una aplicación de hoja de cálculo similar a Excel y Google Sheets. Puede ser útil si prefieres una opción gratuita y de código abierto. [LibreOffice](https://www.libreoffice.org/)
+**LibreOffice Calc:** É um pacote de escritório de código aberto que inclui um aplicativo de planilha semelhante ao Excel e ao Planilhas Google. Pode ser útil se você preferir uma opção gratuita e de código aberto. [LibreOffice](https://www.libreoffice.org/)
