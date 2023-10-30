@@ -6,7 +6,7 @@ description: 'Podemos entender mais detalhes com este exemplo:'
 
 #### <mark style="background-color:orange;">Recorda que este não é um guia para resolver o desafio, mas sim um exemplo para compreendê-lo  melhor.</mark>
 
-Imagine que você recebeu a tarefa de desvendar o mistério por trás da popularidade dos restaurantes e ajudar que a  _**FoodFusion** t_ome decisões sólidas para o seu crescimento. Acompanhe-nos neste processo guiado, onde exploraremos passo- a -passo como organizar restaurantes em categorias de acordo com sua popularidade, levando em consideração as pontuações das avaliações e a variedade em seus menus.
+Imagine que você recebeu a tarefa de desvendar o mistério sobre a popularidade dos restaurantes e ajudar que a  _**FoodFusion** t_ome decisões sólidas para o seu crescimento. Acompanhe-nos neste processo guiado, onde exploraremos passo- a -passo como organizar restaurantes em categorias de acordo com sua popularidade, levando em consideração as pontuações das avaliações e a variedade em seus menus.
 
 * Nosso objetivo é segmentar restaurantes em grupos com base em seu nível de popularidade, considerando tanto as pontuações das avaliações quanto a diversidade em suas ofertas de cardápio.
 * Identificaremos uma abordagem simples, mas eficaz para categorizar restaurantes. Combinaremos a pontuação média da avaliação com o número de pratos em seus menus, criando uma métrica de classificação.
