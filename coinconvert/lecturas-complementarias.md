@@ -9,6 +9,6 @@
 
 ## Fórmulas IF, VLOOKUP e tabelas dinâmicas:
 
-* [Artigo sobre a aplicação da fórmula IF](https://docs.google.com/document/d/1oykFrsX35N2BDYH7pcrodQIBnTAVovNjwYNGGlJSVx0/edit?usp=share\_link)
-* [Artigo sobre a aplicação da fórmula VLOOKUP](https://docs.google.com/document/d/1hCYsswTvRb5SL45UMdYTSO6uPu-J7QQvWdu64kz\_mdg/edit?usp=share\_link)
+* [Artigo sobre a aplicação da fórmula IF](https://docs.google.com/document/d/17XOIbx8rxbCb5OWryShzYzSJ-Maj54KchNkKHmdCqWQ/edit)
+* [Artigo sobre a aplicação da fórmula VLOOKUP](https://docs.google.com/document/d/1rMeSx13XzZPmrM2N9wnhkyGOl1M40jaCRzZ0r4Zpb5Y/edit)
 * [Artigo sobre criação e uso de tabelas dinâmicas](https://docs.google.com/document/d/1XoQFUp8IrpoCuMqc5s7sd4m-d2TWdu3nblrRBZH-3kk/edit?usp=share\_link)
