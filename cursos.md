@@ -1,6 +1,6 @@
 # 📚 Cursos
 
-**Aprender análisis de datos con Excel no tiene por qué ser costoso. Aquí tienes una lista de recursos gratuitos que te ayudarán a desarrollar tus habilidades en fórmulas de Excel y análisis de datos:**
+Aprender análisis de datos con Excel no tiene por qué ser costoso. Aquí tienes una lista de recursos gratuitos que te ayudarán a desarrollar tus habilidades en fórmulas de Excel y análisis de datos:
 
 * [**Microsoft Excel - Fórmulas y funciones (Microsoft)**](https://support.microsoft.com/es-es/excel)**:** Microsoft ofrece tutoriales en línea gratuitos que cubren una amplia gama de fórmulas y funciones de Excel para análisis de datos.
 * [**Excel Easy**](https://www.excel-easy.com/)**:** Excel Easy es una fuente en línea que proporciona tutoriales y ejemplos prácticos sobre cómo utilizar fórmulas y funciones en Excel. Es un recurso útil para aprender análisis de datos con Excel.
