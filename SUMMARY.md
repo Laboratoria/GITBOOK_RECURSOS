@@ -7,5 +7,5 @@
   * [Exemplo](conta-de-restaurante/exemplo.md)
 * [📎 Portfólio](portfolio/README.md)
   * [Exemplo](portfolio/exemplo.md)
-* [Video](video.md)
+* [Videos](videos.md)
 * [❗ Outros recursos](outros-recursos.md)
