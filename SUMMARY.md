@@ -8,4 +8,5 @@
 * [📎 Portfólio](portfolio/README.md)
   * [Exemplo](portfolio/exemplo.md)
 * [📺 Videos](video.md)
-* [❗ Outros recursos](outros-recursos.md)
+* [📚 Cursos](cursos.md)
+* [🔨 Ferramientas](ferramientas.md)

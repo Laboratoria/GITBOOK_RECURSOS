@@ -4,7 +4,7 @@ description: >-
   programadores e desenvolvedores, alguns deles são:
 ---
 
-# ❗ Outros recursos
+# 🔨 Ferramientas
 
 1. **Visual Studio Code:** É um dos editores de código mais populares e é usado por milhões de programadores. É gratuito e de código aberto, e possui uma ampla variedade de extensões que facilitam o trabalho em diferentes linguagens de programação. Pode ser baixado em [https://code.visualstudio.com/ ](https://code.visualstudio.com/)
 2. **Sublime Text:** É um editor de código pago, mas possui uma versão de teste gratuita que pode ser suficiente para muitos programadores. É conhecido por sua velocidade e eficiência no manuseio de grandes arquivos de código. Pode ser baixado em [https://www.sublimetext.com/ ](https://www.sublimetext.com/)
