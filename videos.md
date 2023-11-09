@@ -6,14 +6,20 @@ description: >-
 
 # 📺 Vídeos
 
-## [cuenta-de-restaurante](cuenta-de-restaurante/ "mention")
+{% content-ref url="cuenta-de-restaurante/" %}
+[cuenta-de-restaurante](cuenta-de-restaurante/)
+{% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=sOpNymsMXoo" %}
 
-## [coinconvert](coinconvert/ "mention")
+{% content-ref url="coinconvert/" %}
+[coinconvert](coinconvert/)
+{% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=ka6MGzSInB8" %}
 
-## [portafolio](portafolio/ "mention")
+{% content-ref url="portafolio/" %}
+[portafolio](portafolio/)
+{% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=T9Yo92ZmUIs" %}
