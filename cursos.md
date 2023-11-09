@@ -1,10 +1,9 @@
 # 📚 Cursos
 
-Aprender análisis de datos con Excel no tiene por qué ser costoso. Aquí tienes una lista de recursos gratuitos que te ayudarán a desarrollar tus habilidades en fórmulas de Excel y análisis de datos:
+Você não precisa dispor de recursos financeiros para aprender a analisar dados. Aqui está uma lista de recursos gratuitos para ajudá-la a desenvolver suas habilidades em fórmulas do Excel e análise de dados:
 
-* [**Microsoft Excel - Fórmulas y funciones (Microsoft)**](https://support.microsoft.com/es-es/excel)**:** Microsoft ofrece tutoriales en línea gratuitos que cubren una amplia gama de fórmulas y funciones de Excel para análisis de datos.
-* [**Excel Easy**](https://www.excel-easy.com/)**:** Excel Easy es una fuente en línea que proporciona tutoriales y ejemplos prácticos sobre cómo utilizar fórmulas y funciones en Excel. Es un recurso útil para aprender análisis de datos con Excel.
-* [**Coursera**](https://www.coursera.org/)**:** Coursera ofrece cursos en línea gratuitos de instituciones académicas de renombre. Puedes encontrar cursos relacionados con fórmulas de Excel y análisis de datos de universidades de todo el mundo.
-* [**edX**](https://www.edx.org/)**:** Al igual que Coursera, edX ofrece cursos en línea gratuitos de universidades y colegios de prestigio en todo el mundo, centrados en el análisis de datos con Excel.
-* [**Exceljet**](https://exceljet.net)**:** Exceljet es un recurso en línea que proporciona explicaciones detalladas sobre cómo utilizar fórmulas y funciones de Excel. Es ideal para aquellos que deseen centrarse en el análisis de datos.
-* [**Khan Academy**](https://es.khanacademy.org/)**:** Khan Academy ofrece lecciones interactivas que cubren temas como fórmulas de Excel y análisis de datos.
+* [**Microsoft Excel - Fórmulas e funções (Microsoft):**](https://support.microsoft.com/pt-pt/excel) A Microsoft oferece tutoriais online gratuitos que cobrem uma ampla variedade de fórmulas e funções do Excel para análise de dados.
+* [**Excel Easy**](https://www.excel-easy.com/)**:** Excel Easy é uma fonte online que fornece tutoriais e exemplos práticos de como usar fórmulas e funções no Excel. É um recurso útil para aprender análise de dados com Excel.
+* [**Coursera**](https://www.coursera.org/about/partners/br)**:** O Coursera oferece cursos online gratuitos de instituições acadêmicas renomadas. Você pode encontrar cursos relacionados a fórmulas Excel e análise de dados de universidades de todo o mundo.
+* [**edX**](https://www.edx.org/)**:** Assim como o Coursera, o edX oferece cursos online gratuitos de universidades e faculdades de prestígio em todo o mundo, com foco na análise de dados com Excel.
+* [**Khan Academy**](https://es.khanacademy.org/)**:** A Khan Academy oferece aulas interativas que abrangem tópicos como fórmulas do Excel e análise de dados.
