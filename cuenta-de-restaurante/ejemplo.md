@@ -52,3 +52,15 @@ return `$${totalPerPerson}`;
 </strong></code></pre>
 
 ¡Y eso es todo! Con estos pasos hemos resuelto el problema de calcular el total a pagar por una compra en una tienda, incluyendo impuesto y propina, dividido en partes iguales entre 5 personas.
+
+Quedaría así:
+
+```javascript
+const calculateTotal = (purchaseAmount) => {
+const tax = purchaseAmount * 0.12;
+const tip = purchaseAmount * 0.18;
+const total = purchaseAmount + tax + tip;
+const totalPerPerson = total / 5;
+return `$${totalPerPerson}`; 
+};
+```
