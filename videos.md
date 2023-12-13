@@ -12,14 +12,14 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=sOpNymsMXoo" %}
 
-{% content-ref url="coinconvert/" %}
-[coinconvert](coinconvert/)
+{% content-ref url="coinconvert.md" %}
+[coinconvert.md](coinconvert.md)
 {% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=ka6MGzSInB8" %}
 
-{% content-ref url="portafolio/" %}
-[portafolio](portafolio/)
+{% content-ref url="portafolio.md" %}
+[portafolio.md](portafolio.md)
 {% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=T9Yo92ZmUIs" %}

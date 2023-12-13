@@ -10,9 +10,9 @@ Para implementar esto en JavaScript, podemos crear una función llamada "restaur
 
 ***
 
-Podemos entender más a detalle con este ejemplo:
+<mark style="background-color:orange;">**Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.**</mark>
 
-Claro, aquí está la versión modificada:
+Podemos entender más a detalle con este ejemplo:
 
 _Para comprender mejor este concepto, consideremos el siguiente ejemplo: Imaginemos que nos solicitan crear una función que calcule el monto total a pagar por una compra realizada en una tienda. La tienda desea incluir una propina del 18%. La función debe recibir el monto de la compra como entrada y retornar el total a pagar, el cual incluye la propina, dividido equitativamente entre 5 personas. Es importante recordar que este ejemplo no es una guía para resolver desafíos, sino más bien una ilustración destinada a facilitar la comprensión de los mismos. A continuación, se presenta la función storeBill, la cual lleva a cabo el cálculo mencionado:_
 
