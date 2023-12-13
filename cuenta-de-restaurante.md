@@ -12,19 +12,19 @@ Para implementar esto en JavaScript, podemos crear una función llamada "restaur
 
 Podemos entender más a detalle con este ejemplo:
 
-#### <mark style="background-color:orange;">Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.</mark>
+Claro, aquí está la versión modificada:
 
-S_upongamos que se nos pide escribir una función que calcule el total a pagar por una compra en una tienda. La tienda tiene un impuesto del 12%, y se quiere agregar una propina del 18%. La función debe recibir el monto de la compra y devolver el total a pagar, incluyendo impuesto y propina, dividido en partes iguales entre 5 personas._
+_Para comprender mejor este concepto, consideremos el siguiente ejemplo: Imaginemos que nos solicitan crear una función que calcule el monto total a pagar por una compra realizada en una tienda. La tienda desea incluir una propina del 18%. La función debe recibir el monto de la compra como entrada y retornar el total a pagar, el cual incluye la propina, dividido equitativamente entre 5 personas. Es importante recordar que este ejemplo no es una guía para resolver desafíos, sino más bien una ilustración destinada a facilitar la comprensión de los mismos. A continuación, se presenta la función storeBill, la cual lleva a cabo el cálculo mencionado:_
 
-```javascript
-const storeBill = (bill) => {
-  const taxRate = 0.12;
-  const tipRate = 0.18;
+<pre class="language-javascript"><code class="lang-javascript"><strong>const storeBill = (bill) => {
+</strong>  const tipRate = 0.18;
 
-  const total = bill * (1 + taxRate + tipRate);
+  const total = bill * (1 + tipRate);
 
   return `$${total / 5}`;
 };
 
 module.exports = storeBill;
-```
+</code></pre>
+
+Espero que esta versión sea de tu agrado. Si necesitas más cambios o alguna otra ayuda, no dudes en pedirlo.
