@@ -8,7 +8,9 @@ Es recomendable crear las páginas manualmente utilizando un editor de texto y u
 
 ***
 
-#### <mark style="background-color:orange;">Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.</mark>
+## Podemos entender más a detalle con este ejemplo:
+
+<mark style="background-color:orange;">**Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.**</mark>
 
 _Nos pidieron hacer una página web de bicicletas. La página tendrá un encabezado, un menú de navegación, una sección de productos y un pie de página._&#x20;
 
@@ -69,3 +71,8 @@ _Nos pidieron hacer una página web de bicicletas. La página tendrá un encabez
 6. `<nav>`: Este elemento contiene una lista de enlaces de navegación para que los usuarios puedan moverse por la página. Los elementos de lista `<li>` contienen los enlaces `<a>`.
 7. `<section>`: Este elemento define una sección de la página, en este caso la sección de productos. Los elementos `<article>` son contenedores para cada producto y contienen información como el nombre, la imagen y el precio.
 8. `<footer>`: Este elemento define el pie de página y contiene información como el año de derechos de autor.
+
+{% hint style="info" %}
+Presta atención al ejemplo, ¡puedes encontrar la respuesta!
+{% endhint %}
+
