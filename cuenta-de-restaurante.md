@@ -16,8 +16,6 @@ Para implementar esto en JavaScript, podemos crear una función llamada "restaur
 
 Imagina que tienes un grupo de 5 amigas que salen a comer juntas. La cuenta total del consumo es de 100 dólares, pero necesitas agregarle el 15% de impuesto. Quieren dividir la cuenta equitativamente entre las cinco. Para resolver esto, vamos a crear un programa simple en JavaScript.
 
-El ejercicio incluirá una función llamada "calculateBill" que tomará el monto de la cuenta antes de impuestos como argumento y calculará cuánto le toca pagar a cada persona, incluyendo el impuesto, y retornará un string con el monto que le corresponde pagar a cada una.
-
 <pre class="language-javascript"><code class="lang-javascript"><strong>const calculateBill = (bill) => {
 </strong>  const tax = /* Tu código aquí */;
 
