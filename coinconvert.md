@@ -15,6 +15,10 @@ Para resolver este problema en JavaScript, podemos crear una función llamada co
 1 dólar = 660 pesos chilenos
 ```
 
+{% embed url="https://youtu.be/ka6MGzSInB8" %}
+¿Te quedaste con dudas? ¡Mira este vídeo!
+{% endembed %}
+
 ***
 
 ## Podemos entender más a detalle con este ejemplo:

@@ -4,7 +4,11 @@ El ejercicio de Portafolio consiste en crear una página web simple utilizando H
 
 La solución proporcionada utiliza una biblioteca llamada JSDOM que permite crear una estructura HTML utilizando JavaScript. En el código se define un documento HTML que incluye una cabecera, un menú, una sección principal y un pie de página, y se utiliza la función "document" para acceder a los elementos HTML y modificarlos si es necesario.
 
-Es recomendable crear las páginas manualmente utilizando un editor de texto y un navegador web para visualizar el resultado. Puedes usar el siguiente: [https://code.visualstudio.com](https://code.visualstudio.com)&#x20;
+Es recomendable crear las páginas manualmente utilizando un editor de texto y un navegador web para visualizar el resultado. Puedes usar el siguiente: [https://code.visualstudio.com](https://code.visualstudio.com)
+
+{% embed url="https://youtu.be/T9Yo92ZmUIs" %}
+¿Te quedaste con dudas? ¡Mira este vídeo!
+{% endembed %}
 
 ***
 
@@ -75,4 +79,3 @@ _Nos pidieron hacer una página web de bicicletas. La página tendrá un encabez
 {% hint style="info" %}
 Presta atención al ejemplo, ¡puedes encontrar la respuesta!
 {% endhint %}
-

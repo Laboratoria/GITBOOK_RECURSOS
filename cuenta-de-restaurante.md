@@ -8,6 +8,10 @@ Para resolver el problema "Cuenta de restaurante" debemos calcular el monto tota
 
 Para implementar esto en JavaScript, podemos crear una función llamada "restaurantBill" que tome como argumento el monto de la cuenta y devuelva el monto que cada persona debe pagar.
 
+{% embed url="https://youtu.be/sOpNymsMXoo" %}
+¿Te quedaste con dudas? ¡Mira este vídeo!
+{% endembed %}
+
 ***
 
 ## Podemos entender más a detalle con este ejemplo:
