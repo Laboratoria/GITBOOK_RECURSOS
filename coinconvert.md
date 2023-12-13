@@ -17,20 +17,38 @@ Para resolver este problema en JavaScript, podemos crear una función llamada co
 
 ***
 
+## Podemos entender más a detalle con este ejemplo:
+
 <mark style="background-color:orange;">**Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.**</mark>
 
-Para comprender mejor este concepto, consideremos el siguiente ejemplo: Imagina que te piden escribir una función que convierta una temperatura de grados Celsius a grados Fahrenheit. La función tempConvert realiza esta conversión y retorna un arreglo con las temperaturas en grados Fahrenheit y Kelvin.
+Para comprender mejor este concepto, consideremos el siguiente ejemplo: Imagina que te piden escribir una función que convierta una temperatura de grados Celsius a grados Fahrenheit. La función `tempConvert` realiza esta conversión y retorna un arreglo con las temperaturas en grados Fahrenheit y Kelvin.
 
 ```javascript
-const tempConvert = (celsius) => {
-  const fahrenheit = celsius * 1.8 + 32;
-  const kelvin = celsius + 273.15;
-  return [fahrenheit, kelvin];
-};
+const tempConvert = (fahrenheit) => {
+  // Asigna la temperatura equivalente en grados 
+  const celsius = /* Tu código aquí */;
 
-console.log(tempConvert(25)); // [77, 298.15]
+  return celsius;
+};
 ```
 
-En este caso, al llamar a la función tempConvert con un valor de 25 para el parámetro celsius, se imprime en la consola el arreglo \[77, 298.15], que representa la temperatura de 25 grados Celsius en grados Fahrenheit y Kelvin, respectivamente.
+Para completar la implementación de la función `tempConvert`, utiliza la fórmula de conversión de grados Fahrenheit a grados Celsius:
 
-Espero que esta versión sea de tu agrado. Si necesitas más cambios o alguna otra ayuda, no dudes en pedirlo.
+$$
+celsius = (fahrenheit - 32) * (5/9)
+$$
+
+La solución al ejercicio sería la siguiente:
+
+```javascript
+const tempConvert = (fahrenheit) => {
+  const celsius = (fahrenheit - 32) * (5/9);
+  return celsius;
+};
+
+module.exports = tempConvert;
+```
+
+{% hint style="info" %}
+Presta atención al ejemplo, ¡puedes encontrar la respuesta!
+{% endhint %}
