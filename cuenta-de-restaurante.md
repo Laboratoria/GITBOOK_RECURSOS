@@ -25,7 +25,7 @@ Imagina que tienes un grupo de 5 amigas que salen a comer juntas. La cuenta tota
 };
 </code></pre>
 
-Asigna el resultado de multiplicar bill por 15% (en decimal, 0.15) a la variable "tax" (impuesto en inglés). Crea una variable llamada "total" y asígnale el resultado de sumar bill más tax. Retorna el monto que cada una debe pagar (total dividido entre 5), con el símbolo $ adelante (por ejemplo: $23).
+Asigna el resultado de multiplicar `bill` por 15% (en decimal, 0.15) a la variable `tax` (impuesto en inglés). Crea una variable llamada `total` y asígnale el resultado de sumar bill más tax. Retorna el monto que cada una debe pagar (total dividido entre 5), con el símbolo $ adelante (por ejemplo: $23).
 
 La solución al ejercicio sería la siguiente:
 
