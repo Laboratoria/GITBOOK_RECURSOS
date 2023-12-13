@@ -6,8 +6,8 @@ description: >-
 
 # 📺 Vídeos
 
-{% content-ref url="cuenta-de-restaurante/" %}
-[cuenta-de-restaurante](cuenta-de-restaurante/)
+{% content-ref url="cuenta-de-restaurante.md" %}
+[cuenta-de-restaurante.md](cuenta-de-restaurante.md)
 {% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=sOpNymsMXoo" %}
