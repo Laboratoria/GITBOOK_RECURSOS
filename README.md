@@ -1,10 +1,3 @@
----
-description: >-
-  ¡Hola! ¡Bienvenida al gitbook de recursos para candidatas de Laboratoria! En
-  este documento, vamos a explicar cómo funciona el proceso de inscripción y
-  proporcionar recursos para ayudarte a entender m
----
-
 # 💛 Bienvenida
 
 ## ¿Cómo es el proceso de postulación?
