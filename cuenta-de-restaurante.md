@@ -14,7 +14,7 @@ Para implementar esto en JavaScript, podemos crear una función llamada "restaur
 
 Podemos entender más a detalle con este ejemplo:
 
-_Para comprender mejor este concepto, consideremos el siguiente ejemplo: Imaginemos que nos solicitan crear una función que calcule el monto total a pagar por una compra realizada en una tienda. La tienda desea incluir una propina del 18%. La función debe recibir el monto de la compra como entrada y retornar el total a pagar, el cual incluye la propina, dividido equitativamente entre 5 personas. Es importante recordar que este ejemplo no es una guía para resolver desafíos, sino más bien una ilustración destinada a facilitar la comprensión de los mismos. A continuación, se presenta la función storeBill, la cual lleva a cabo el cálculo mencionado:_
+_Imaginemos que nos solicitan crear una función que calcule el monto total a pagar por una compra realizada en una tienda. La tienda desea incluir una propina del 18%. La función debe recibir el monto de la compra como entrada y retornar el total a pagar, el cual incluye la propina, dividido equitativamente entre 5 personas. Es importante recordar que este ejemplo no es una guía para resolver desafíos, sino más bien una ilustración destinada a facilitar la comprensión de los mismos. A continuación, se presenta la función_ `storeBill`_, la cual lleva a cabo el cálculo mencionado:_
 
 <pre class="language-javascript"><code class="lang-javascript"><strong>const storeBill = (bill) => {
 </strong>  const tipRate = 0.18;
@@ -27,4 +27,6 @@ _Para comprender mejor este concepto, consideremos el siguiente ejemplo: Imagine
 module.exports = storeBill;
 </code></pre>
 
-Espero que esta versión sea de tu agrado. Si necesitas más cambios o alguna otra ayuda, no dudes en pedirlo.
+{% hint style="info" %}
+Presta atención al ejemplo, ¡puedes encontrar la respuesta!
+{% endhint %}
