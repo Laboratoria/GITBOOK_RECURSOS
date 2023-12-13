@@ -10,22 +10,36 @@ Para implementar esto en JavaScript, podemos crear una función llamada "restaur
 
 ***
 
+## Podemos entender más a detalle con este ejemplo:
+
 <mark style="background-color:orange;">**Recuerda que esto no es una guía para resolver los retos, sino un ejemplo para comprenderlos mejor.**</mark>
 
-Podemos entender más a detalle con este ejemplo:
+Imagina que tienes un grupo de 5 amigas que salen a comer juntas. La cuenta total del consumo es de 100 dólares, pero necesitas agregarle el 15% de impuesto. Quieren dividir la cuenta equitativamente entre las cinco. Para resolver esto, vamos a crear un programa simple en JavaScript.
 
-_Imaginemos que nos solicitan crear una función que calcule el monto total a pagar por una compra realizada en una tienda. La tienda desea incluir una propina del 18%. La función debe recibir el monto de la compra como entrada y retornar el total a pagar, el cual incluye la propina, dividido equitativamente entre 5 personas. Es importante recordar que este ejemplo no es una guía para resolver desafíos, sino más bien una ilustración destinada a facilitar la comprensión de los mismos. A continuación, se presenta la función_ `storeBill`_, la cual lleva a cabo el cálculo mencionado:_
+El ejercicio incluirá una función llamada "calculateBill" que tomará el monto de la cuenta antes de impuestos como argumento y calculará cuánto le toca pagar a cada persona, incluyendo el impuesto, y retornará un string con el monto que le corresponde pagar a cada una.
 
-<pre class="language-javascript"><code class="lang-javascript"><strong>const storeBill = (bill) => {
-</strong>  const tipRate = 0.18;
+<pre class="language-javascript"><code class="lang-javascript"><strong>const calculateBill = (bill) => {
+</strong>  const tax = /* Tu código aquí */;
 
-  const total = bill * (1 + tipRate);
+  /* Tu código aquí */
 
+  return /* Tu código aquí */;
+};
+</code></pre>
+
+Asigna el resultado de multiplicar bill por 15% (en decimal, 0.15) a la variable "tax" (impuesto en inglés). Crea una variable llamada "total" y asígnale el resultado de sumar bill más tax. Retorna el monto que cada una debe pagar (total dividido entre 5), con el símbolo $ adelante (por ejemplo: $23).
+
+La solución al ejercicio sería la siguiente:
+
+```javascript
+const calculateBill = (bill) => {
+  const tax = bill * 0.15;
+  const total = bill + tax;
   return `$${total / 5}`;
 };
 
-module.exports = storeBill;
-</code></pre>
+module.exports = calculateBill;
+```
 
 {% hint style="info" %}
 Presta atención al ejemplo, ¡puedes encontrar la respuesta!
