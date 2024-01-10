@@ -16,7 +16,9 @@ No contexto do CineMaster, esta análise estratégica ajudará a definir as aç�
 
 ***
 
-## Lembre-se que este não é um guia para resolver o desafio, mas sim um exemplo para compreendê-lo  melhor.
+
+
+<mark style="background-color:orange;">Lembre-se que este não é um guia para resolver o desafio, mas sim um exemplo para compreendê-lo  melhor.</mark>
 
 Imagine que você recebeu a tarefa de desvendar o mistério sobre a popularidade dos restaurantes e ajudar que a  _**FoodFusion** t_ome decisões sólidas para o seu crescimento. Acompanhe-nos neste processo guiado, onde exploraremos passo- a -passo como organizar restaurantes em categorias de acordo com sua popularidade, levando em consideração as pontuações das avaliações e a variedade em seus menus.
 
