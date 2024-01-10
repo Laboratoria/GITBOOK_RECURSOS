@@ -16,7 +16,7 @@ No contexto do CineMaster, esta análise estratégica ajudará a definir as aç�
 
 ***
 
-
+## Podemos entender mais detalhadamente com este exemplo
 
 <mark style="background-color:orange;">Lembre-se que este não é um guia para resolver o desafio, mas sim um exemplo para compreendê-lo  melhor.</mark>
 
