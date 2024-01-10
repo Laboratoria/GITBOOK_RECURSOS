@@ -47,3 +47,7 @@ Imagine que você recebeu a tarefa de desvendar o mistério sobre a popularidade
     Esta fórmula buscará o valor em `B2` na primeira coluna da tabela `A10:B12` e retornará o valor  da segunda coluna se encontrar uma correspondência. Neste caso, procuramos a categoria de popularidade na tabela.
 
 Através de passos metódicos e fórmulas eficazes, estabeleceremos um sistema que classificará os restaurantes de forma precisa e robusta.
+
+{% hint style="info" %}
+Preste atenção ao exemplo, você pode encontrar a resposta!
+{% endhint %}
