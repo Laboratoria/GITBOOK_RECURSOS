@@ -1,6 +1,6 @@
 # 💛 Bienvenida
 
-## ¿Cómo es el proceso de postulación?
+¡Únete a nuestra comunidad de Slack aquí!¡Únete a nuestra comunidad de Slack aquí!¿Cómo es el proceso de postulación?
 
 El proceso de postulación para Laboratoria consta de varias etapas que permiten a las candidatas demostrar su capacidad y habilidades para programar, así como también conocer más sobre la organización y el bootcamp en sí.
 
@@ -13,3 +13,7 @@ El proceso de postulación para Laboratoria consta de varias etapas que permiten
 Es importante tener en cuenta que no se necesitan conocimientos previos de programación para postular, pero se espera que las candidatas tengan una fuerte motivación y compromiso para aprender.
 
 #### Al final de cada etapa te notificaremos los resultados de tu postulación.
+
+{% embed url="https://join.slack.com/t/applicantslaboratoria/shared_invite/zt-27u6msc0k-QYRw3~ekNmSPH1~PX9av7A" fullWidth="true" %}
+¡Únete a nuestra comunidad de Slack aquí!
+{% endembed %}
