@@ -20,3 +20,7 @@ El proceso de postulación para Laboratoria consta de varias etapas que permiten
 Es importante tener en cuenta que no se necesitan conocimientos previos de programación para postular, pero se espera que las candidatas tengan una fuerte motivación y compromiso para aprender.
 
 #### Al final de cada etapa te notificaremos los resultados de tu postulación.
+
+{% embed url="https://join.slack.com/t/applicantslaboratoria/shared_invite/zt-27u6msc0k-QYRw3~ekNmSPH1~PX9av7A" %}
+¡Únete a nuestra comunidad de Slack aquí!
+{% endembed %}
